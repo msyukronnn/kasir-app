@@ -8,8 +8,8 @@ CREATE TABLE users (
 
 INSERT INTO users(username, password)
 VALUES (
-    'admin',
-    MD5('admin123')
+    'your-username',
+    MD5('your-password')
 );
 
 CREATE TABLE products (

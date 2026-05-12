@@ -1,9 +1,9 @@
 <?php 
 
 $host = "localhost";
-$db   = "kasir_db";
-$user = "root";
-$pass = "";
+$db   = "your-db";
+$user = "yoyr-username";
+$pass = "-your-password";
 
 try {
     $conn = new PDO(
